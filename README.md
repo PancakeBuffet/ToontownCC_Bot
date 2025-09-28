@@ -1,5 +1,5 @@
 # ToontownCC_Bot
--Created by Matthew Govia (originally mgovster on github but lost email access to that account so moving to here)
+-Created by Matt G (originally mgovster on github but lost email access to that account so moving to here. Current account name PancakeBuffet)
 
 This is from a fun game made in 2003 called Toontown. The game closed in 2013 and many servers were created to replicate the game, some with special twists. The server used for this is Toontown Corporate Clash. Written in Python, eventually will add C++ because some sections need to be faster. Once all sections are created and mostly debugged, all segments will be combined into one for a simple use for the user.
 <ol>
